@@ -16,8 +16,8 @@ Simply download the folder containing the script you want, and you're good to go
 
 | Script | Description | Author | Redirect to script |
 | ----------- | --------------------- | --------- | ------- |
-| wallpaper-changer-pywal | Wallpaper picker with Paywal for generating color pallate | [Venomous27](github.com/Venomous27) | [Click Here](scripts/wallpaper-changer-pywal) |
-| enable-disable-monitor | Enable or Disable monitor for multi-monitor setup | [Venomous27](github.com/Venomous27) | [Click Here](scripts/enable-disable-monitor) |
+| wallpaper-changer-pywal | Wallpaper picker with Paywal for generating color pallate | [Venomous27](https://github.com/Venomous27) | [Click Here](scripts/wallpaper-changer-paywal/) |
+| enable-disable-monitor | Enable or Disable monitor for multi-monitor setup | [Venomous27](https://github.com/Venomous27) | [Click Here](scripts/enable-disable-monitor/) |
 
 ## Contributing
 
