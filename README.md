@@ -1,4 +1,4 @@
-# Mango Scripts
+# Info
 
 This repository is a collection of community/user-submitted scripts for Mango WM.
 
