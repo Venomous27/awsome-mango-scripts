@@ -4,6 +4,9 @@ In the `monitor.sh` change the monitor names according to your monitor's name.<b
 Use `wlr-randr` to get your monitor's name, make, model, and serial.<br>
 You can also add more options according to your need.<br>
 
+Then make it executable using:<br>
+`chmod +x "script's/path"`
+
 To use it with MangoWM<br>
 Add keybind and windowrule in your `mango's config`. Don't forget to change path of script in keybind :p<br>
 
