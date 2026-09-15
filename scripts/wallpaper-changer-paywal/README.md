@@ -4,6 +4,9 @@ Needed dependencies: awww, fzf, pywal
 
 Make sure wallpapers are in "~/Pictures/Wallpapers/"
 
+Then make it executable using:<br>
+`chmod +x "script's/path"`
+
 To use it with MangoWM<br>
 Add keybind and windowrule in your `mango's config`. Don't forget to change path of script in keybind :p<br>
 
